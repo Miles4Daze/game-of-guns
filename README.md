@@ -1,5 +1,4 @@
 # game-of-guns
 
-
-# **USE .sb3 USE TURBOWARP**
-*TO USE .sb3.zip RELEASES, REMOVE .ZIP!*
+*To use .sb3, use Turbowarp for custom extentions to work!*
+*To use .sb3.zip releases, remove ".zip"!*
